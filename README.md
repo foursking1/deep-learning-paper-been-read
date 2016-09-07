@@ -17,11 +17,14 @@ A list to keep track of interesting papers I got the chance to read.
  - [Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/pdf/1502.03167v3.pdf)
  - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261.pdf)
  - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf)
+ - [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v3)
  - [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf)
  - [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/pdf/1602.07360v3.pdf)
 
 ## Object Recognition
  - [OverFeat: Integrated Recognition, Localization and Detectio](https://arxiv.org/pdf/1312.6229v4.pdf)
+ - [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524v5)
+ - [Learning to Segment Object Candidates](https://arxiv.org/pdf/1506.06204v2)
 
 ## Unsupervised/ Semi Supervised Learning
  - [Generative Adversarial Nets](http://arxiv.org/pdf/1406.2661v1.pdf)

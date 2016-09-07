@@ -35,6 +35,7 @@ A list to keep track of interesting papers I got the chance to read.
  - [Unsupervised Visual Representation Learning by Context Prediction](http://arxiv.org/pdf/1505.05192v3.pdf)
  - [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657v1.pdf)
  - [Building High-level Features Using Large Scale Unsupervised Learning](https://arxiv.org/pdf/1112.6209.pdf)
+ - [One-Shot Generalization in Deep Generative Models](https://arxiv.org/pdf/1603.05106)
 
 ## Miscellaneous
  - [Trafﬁc Flow Prediction With Big Data: A Deep Learning Approach](https://www.researchgate.net/profile/Lv_Yisheng/publication/273564489_Traffic_Flow_Prediction_With_Big_Data_A_Deep_Learning_Approach/links/552c90300cf29b22c9c45f21.pdf)

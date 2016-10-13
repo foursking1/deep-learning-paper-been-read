@@ -54,3 +54,4 @@ A list to keep track of interesting papers I got the chance to read.
  - [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](http://arxiv.org/pdf/1310.1531v1.pdf)
  - [Learning a Similarity Metric Discriminatively, with Application to Face Verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf)
  - [Optimal Brain Damage](http://yann.lecun.com/exdb/publis/pdf/lecun-90b.pdf)
+ - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
